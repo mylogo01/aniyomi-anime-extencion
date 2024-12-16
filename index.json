@@ -3381,10 +3381,10 @@
   {
     "name": "Aniyomi: MiniOppai",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.minioppai",
-    "apk": "aniyomi-id.minioppai-v14.8.apk",
+    "apk": "aniyomi-id.minioppai-v14.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3393,7 +3393,7 @@
         "name": "MiniOppai",
         "lang": "id",
         "id": "3422641844834047610",
-        "baseUrl": "https://minioppai.biz",
+        "baseUrl": "https://minioppai.org",
         "versionId": 1
       }
     ]
