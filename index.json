@@ -3381,10 +3381,10 @@
   {
     "name": "Aniyomi: MiniOppai",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.minioppai",
-    "apk": "aniyomi-id.minioppai-v14.9.apk",
+    "apk": "aniyomi-id.minioppai-v14.8.apk",
     "lang": "id",
-    "code": 9,
-    "version": "14.9",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
